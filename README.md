@@ -1,3 +1,3 @@
 # TheOffice
 
-Play <a href="google.com"> here </a>
+Play <a href="TheOffice.html"> here </a>
